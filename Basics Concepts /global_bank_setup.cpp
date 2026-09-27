@@ -3,6 +3,7 @@
 
 // 1. GLOBAL SCOPE
 // This variable can be accessed by ANY function or class in this file.
+//add some new comment 
 std::string globalBankName = "Global C++ Bank"; 
 
 // 2. CLASS DEFINITION (The Blueprint)
